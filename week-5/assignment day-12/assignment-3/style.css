@@ -1,0 +1,45 @@
+table,th,td{
+    
+    border-collapse: collapse;
+    padding:20px;
+}
+table{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    padding: 200px;
+    border-radius: 20px;
+   background-color: aliceblue;
+}
+body{
+    padding: 175px;
+}
+
+img{
+    border-radius: 100%;
+
+}
+div{
+    padding-top:10px;
+    padding-bottom: 50px;
+    background-color: rgb(39, 161, 180);
+    border-radius: 20px;
+    box-shadow:0pc;
+    text-align: center;
+}
+.head1{
+background-color:  rgb(7, 76, 87);
+border-radius: 20px;
+}
+.m{
+    color: aliceblue;
+    font-size: large;
+   
+}
+td{
+    color: rgb(8, 63, 63);
+}
+.n{
+    background-color: rgb(195, 216, 216);
+
+}

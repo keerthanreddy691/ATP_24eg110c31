@@ -1,0 +1,40 @@
+.parent{
+    margin:50px;
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    
+    padding-top: 50px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+    justify-content: space-evenly;
+}
+.new{
+width: 15%;
+padding: 10px;
+background-color: white;
+border: 2px solid black;
+height: 400px;
+text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+    border-radius: 150%;
+    
+}
+ul{
+    width: 90%;
+    display: flex;
+    padding: 0%;
+    justify-content:space-evenly;
+    list-style-type: none;
+     
+}
+.gp{
+
+    padding: 30px;
+    background-color:rgb(218, 215, 215);
+}
